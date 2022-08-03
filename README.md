@@ -1,2 +1,2 @@
 # IP-Func
-Algumas funções utilizadas na cadeira de IP
+Algumas funções/tecnicas/estruturas utilizadas na cadeira de IP
