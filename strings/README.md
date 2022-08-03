@@ -1,7 +1,8 @@
 # Strings!
 
+```
 - length.c 
-
+```
 Função que retorna o tamanho da string
 
 - concatenate.c
