@@ -17,5 +17,8 @@ int main(){
     char e[maxn];
     strcpy(d, e);//copia e para d
 
+    char f[maxn];
+    sprintf(f, "%s %d", "substitui", 10); //copia para 'f' a concatenação da string + inteiro
+
     return 0;
 }
